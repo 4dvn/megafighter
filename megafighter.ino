@@ -187,7 +187,7 @@ Adafruit_NeoPixel leds = Adafruit_NeoPixel(NUM_LEDS, DATA_PIN, NEO_GRB + NEO_KHZ
 
 #define MIDI_CHANNEL 1
 // First note, starting from upper left button
-#define NOTE NOTE_C0
+#define NOTE NOTE_C2
 // This pin order corresponds to the top left button being zero, increasing by one as we move from left to right, top to bottom
 // 0  1  2  3
 // 4  5  6  7
